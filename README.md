@@ -6,9 +6,6 @@ I started woking with java and SQL, but over the past three months I dived deep 
 <br>
 <br>
 <br>
-<p align="center">
-  <img src="assets/pc.png" alt="PC" width="300" />
-</p>
 ________________________________________________________________________________________________________________________________________________
 ## Tech Stack 💻
 
