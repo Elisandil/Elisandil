@@ -2,7 +2,7 @@
 
 ## About me
 I'm Antonio, primary a backend developer, with some experience in web. My core strengths lie in designing clean architectures.
-I started woking with java and SQL, but over the past three months I dived deep into Golang.
+I started woking with java and SQL, but over the past three months I've been diving deep into Golang.
 <br>
 <br>
 <br>
