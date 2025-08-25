@@ -53,7 +53,7 @@ Over the past two years I've been coding with these languages:
 ## Interests
 
 - **Go Development**: Building several apps to deepen my Golang expertise.
-- **Learning Python**: Mastering Python for scripting, automation, and data science workflows. 
+- **API Rest**: Creating API Rest with Java/Spring boot using microservices. 
 - **Data Analysis**: Creating and optimizing a backend for data processing and analytics.
 
 
