@@ -8,11 +8,11 @@ I kicked off my career working with Java and SQL, and over the past months I’v
 
 **Core strengths:**
 -  **Backend:** API design, database modelling, performance tuning  
--  **Web Fundamentals:**
+-  **Web Fundamentals**
 
 **Current focus:**
 - Diving deep into **Golang**
-- Developing a **data analysis backend** with Java
+- Learning **Spring Boot** and **JPA**
 
 
 
