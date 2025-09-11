@@ -23,7 +23,7 @@ I kicked off my career working with Java and SQL, and over the past months I’v
 
 
 ## Tech Stack 💻
-Over the past two years I've been coding with these languages:
+Over the past years I've been coding with these languages:
 
 
 - **Backend:** <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
