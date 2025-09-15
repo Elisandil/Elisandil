@@ -6,14 +6,11 @@
 I’m Antonio, a passionate backend developer with a flair for building clean, maintainable architectures. 
 I kicked off my career working with Java and SQL, and over the past months I’ve been fully immersed in Go.
 
-**Core strengths:**
--  **Backend:** API design, database modelling 
--  **Web Fundamentals**
 
 **Current focus:**
 - Diving deep into **Golang**
 - Learning **Spring Boot** and **JPA**
-- Learning **Grpc** and **Kafka**
+- Trying to build an e-commerce app
 
 
 <p align="center">
@@ -49,15 +46,6 @@ Over the past years I've been coding with these languages:
     width="35%"
   />
 </p>
-
-
-
-## Interests
-
-- **Go Development**: Building several apps to deepen my Golang expertise.
-- **Microservice Architecture**: Creating apps with Java/Spring Boot, using Grpc and Kafka. 
-- **Data Analysis**
-
 
 
 ## 📫 Contact
