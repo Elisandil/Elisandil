@@ -33,6 +33,11 @@ Over the past years I've been coding with these languages:
 
 - **Frameworks:** <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Framework"/>
 
+## Stats
+<p float="left" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Elisandil&show_icons=true&theme=dark" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elisandil&layout=compact&theme=dark" width="320" />
+</p>
 
 ## 📫 Contact
 
