@@ -39,7 +39,7 @@ Over the past years I've been coding with these languages:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elisandil&layout=compact&theme=dark" width="320" />
 </p>
 
-## 📫 Contact
+## Contact
 
 Have a question or want to collaborate?  
 Don’t hesitate—get in touch!
