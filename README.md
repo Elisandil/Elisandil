@@ -45,4 +45,3 @@ Have a question or want to collaborate?
 Don’t hesitate—get in touch!
 
 - ✉️ Email: [antort1988@gmail.com](mailto:antort1988l@gmail.com)  
-- 💼 LinkedIn: [Antonio Ortega](https://www.linkedin.com/in/antonio-ortega-83b380348).
