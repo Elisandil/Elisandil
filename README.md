@@ -10,7 +10,6 @@ I kicked off my career working with Java and SQL, and over the past months I’v
 **Current focus:**
 - Diving deep into **Golang**
 - Learning **Spring Boot** and **JPA**
-- Trying to build an e-commerce app
 
 
 <p align="center">
