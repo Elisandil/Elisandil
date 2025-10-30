@@ -3,13 +3,14 @@
 
 
 ## About me
-I’m Antonio, a passionate backend developer with a flair for building clean, maintainable architectures. 
+I’m Antonio, a passionate backend developer/software engineer with a flair for building clean, maintainable architectures.  
 I kicked off my career working with Java and SQL, and over the past months I’ve been fully immersed in Go.
 
-
 **Current focus:**
+- Creating apps with **Spring Boot** and **JPA/Hibernate**
 - Diving deep into **Golang**
-- Learning **Spring Boot** and **JPA**
+- Exploring **ports and services architecture**
+- Learning **Python**
 
 
 <p align="center">
@@ -22,7 +23,7 @@ I kicked off my career working with Java and SQL, and over the past months I’v
 Over the past years I've been coding with these languages:
 
 
-- **Backend:** <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+- **Backend:** <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
 
 - **Databases:** <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 
@@ -30,7 +31,7 @@ Over the past years I've been coding with these languages:
 
 - **Shells:** <img src="https://img.shields.io/badge/Linux-Shell-black?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell"/>
 
-- **Frameworks:** <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Framework"/> <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor"/> 
+- **Frameworks and libraries** <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Framework"/> <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 
 ## Stats
 <p float="left" align="center">
