@@ -41,6 +41,4 @@ Over the past years I've been coding with these languages:
 
 ## Contact
 
-Don’t hesitate—get in touch!
-
 - ✉️ Email: [antort1988@gmail.com](mailto:antort1988l@gmail.com)  
