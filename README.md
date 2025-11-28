@@ -34,11 +34,11 @@ Over the past years I've been coding with these languages:
 - **Frameworks and libraries** <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Framework"/> <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 
 ## Stats
-<p float="left" align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Elisandil&show_icons=true&theme=dark" width="420" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elisandil&layout=compact&theme=dark" width="320" />
 </p>
 
 ## Contact
 
-- ✉️ Email: [antort1988@gmail.com](mailto:antort1988l@gmail.com)  
+- ✉️ Email: [antort1988@gmail.com](mailto:antort1988@gmail.com)  
