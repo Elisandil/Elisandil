@@ -4,7 +4,7 @@
 
 <div align="center">
   <br />
-  <a href="www.linkedin.com/in/aog-dev" target="_blank">
+  <a href="https://www.linkedin.com/in/aog-dev">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:antort1988@gmail.com">
@@ -16,15 +16,15 @@
 
 ### ⚡ About Me
 
-I'm an aspiring **Backend Software Engineer** driven by curiosity and a passion for building efficient systems.
+I'm a **Backend Software Engineer** driven by curiosity and a passion for building efficient systems.
 
 Currently transitioning from a **Java** background to the **Go (Golang)** ecosystem, I focus on writing **clean code** and understanding the "why" behind software architecture decisions. I am constantly learning how to build applications that are not just functional, but also maintainable.
 
 **🌱 My Journey & Focus:**
-* 🐹 **Deep diving into Go:** Building REST APIs and CLI tools.
-* 🏗 **Learning Architecture:** Exploring Hexagonal Architecture and SOLID principles.
-* 🐳 **DevOps Basics:** Getting hands-on with Docker and CI/CD.
-* 🤝 **Goal:** To join a team where I can contribute, learn, and grow as an engineer.
+* **Deep diving into Go:** Building REST APIs and CLI tools.
+* **Learning Architecture:** Exploring Hexagonal Architecture and SOLID principles.
+* **DevOps Basics:** Getting hands-on with Docker and CI/CD.
+* **Goal:** To join a team where I can contribute, learn, and grow as an engineer.
 
 ---
 
@@ -36,7 +36,7 @@ Currently transitioning from a **Java** background to the **Go (Golang)** ecosys
 |:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=go,java,python,cs,kotlin&theme=dark" /> | <img src="https://skillicons.dev/icons?i=docker,postgres,mysql,mongodb,redis&theme=dark" /> |
 
-| **Frameworks** | **Tooling** |
+| **Frameworks** | **Tools** |
 |:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=spring,hibernate,net,flask&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,bash,linux,postman,maven,gradle&theme=dark" /> |
 
@@ -70,6 +70,8 @@ Currently transitioning from a **Java** background to the **Go (Golang)** ecosys
 
 ---
 ### 🌟 Featured Project
+
+I am currently applying my knowledge in a practical way. Below is a highlight of my most robust project, built to demonstrate modern backend practices and high-performance engineering.
 
 <table>
   <tr>
