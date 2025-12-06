@@ -34,11 +34,11 @@ Currently transitioning from a **Java** background to the **Go (Golang)** ecosys
 
 | **Backend Core** | **Infrastructure & DB** |
 |:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=go,java,python,cs,kotlin&theme=dark" /> | <img src="https://skillicons.dev/icons?i=docker,postgres,mysql,mongodb,redis&theme=dark" /> |
+| <img src="https://skillicons.dev/icons?i=java,go,python,cs&theme=dark" /> | <img src="https://skillicons.dev/icons?i=docker,postgres,mysql,sqlite,mongodb,redis&theme=dark" /> |
 
 | **Frameworks** | **Tools** |
 |:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=spring,hibernate,net,flask&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,bash,linux,postman,maven,gradle&theme=dark" /> |
+| <img src="https://skillicons.dev/icons?i=spring,hibernate,net&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,bash,linux,maven&theme=dark" /> |
 
 </div>
 
