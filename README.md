@@ -72,7 +72,7 @@ Currently transitioning from a **Java** background to the **Go (Golang)** ecosys
 ---
 ### 🌟 Featured Project
 
-I am currently applying my knowledge in a practical way. Below is a highlight of my most robust project, built to demonstrate modern backend practices and high-performance engineering.
+I am currently applying my knowledge in a practical way. Below is a highlight of my most robusts projects, built to demonstrate modern backend practices.
 
 <table>
   <tr>
@@ -123,7 +123,6 @@ I am currently applying my knowledge in a practical way. Below is a highlight of
   </tr>
 </table>
 
-#### 2. WebScraper App
 <table>
   <tr>
     <td width="35%" align="center">
@@ -132,7 +131,7 @@ I am currently applying my knowledge in a practical way. Below is a highlight of
       </a>
     </td>
     <td width="65%">
-      <h3 align="center">WebScraper App</h3>
+      <h3 align="center">WebScraper App - Metadata Scraper</h3>
       <p align="center">
         A modern <strong>Full-Stack Web Scraper</strong> with AI-powered natural language interface for automated metadata, links, and image extraction.
       </p>
