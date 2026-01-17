@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Antonio;Backend+Software+Engineer;Go+%26+Java+Enthusiast;Architecting+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Antonio;Go+%26+Java+Developer;Software+Developer+@Almerimatik;Building+Software" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -21,6 +21,7 @@ I'm a **Backend Software Engineer** driven by curiosity and a passion for buildi
 Currently transitioning from a **Java** background to the **Go (Golang)** ecosystem, I focus on writing **clean code** and understanding the "why" behind software architecture decisions. I am constantly learning how to build applications that are not just functional, but also maintainable.
 
 **🌱 My Journey & Focus:**
+* **Professional:** Developing enterprise-grade software for mobility and security (Appolo).
 * **Deep diving into Go:** Building REST APIs and CLI tools.
 * **Learning Architecture:** Exploring Hexagonal Architecture and SOLID principles.
 * **DevOps Basics:** Getting hands-on with Docker and CI/CD.
@@ -38,7 +39,7 @@ Currently transitioning from a **Java** background to the **Go (Golang)** ecosys
 
 | **Frameworks** | **Tools** |
 |:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=spring,hibernate,net&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,bash,linux,maven&theme=dark" /> |
+| <img src="https://skillicons.dev/icons?i=spring,hibernate,net,react&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,bash,linux,maven&theme=dark" /> |
 
 </div>
 
@@ -115,6 +116,43 @@ I am currently applying my knowledge in a practical way. Below is a highlight of
       </p>
       <p align="center">
         <a href="https://github.com/Elisandil/GoSnap">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+#### 2. WebScraper App
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <a href="https://github.com/Elisandil/webscraper-v2">
+        <img src="https://github.com/Elisandil/webscraper-v2/blob/main/assets/Logo.png?raw=true" alt="WebScraper Logo" width="100%" />
+      </a>
+    </td>
+    <td width="75%">
+      <h3 align="center">WebScraper App</h3>
+      <p align="center">
+        A modern <strong>Full-Stack Web Scraper</strong> with AI-powered natural language interface for automated metadata, links, and image extraction.
+      </p>
+      <p align="center">
+        <strong>Key Technical Features:</strong>
+        <br />
+        AI Chat Assistant (HuggingFace NLP) • Cron Job Scheduling • JWT Auth with Refresh Tokens • SQLite (No-CGO) • Pagination & Rate Limiting
+      </p>
+      <p align="center">
+        <strong>🛠 Tech Stack:</strong>
+        <br />
+        <img src="https://img.shields.io/badge/Go_1.24-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Vite_7-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+        <img src="https://img.shields.io/badge/Tailwind_3-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+        <img src="https://img.shields.io/badge/HuggingFace_NLP-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/Elisandil/webscraper-v2">
           <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
         </a>
       </p>
