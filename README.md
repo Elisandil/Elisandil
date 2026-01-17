@@ -149,9 +149,6 @@ I am currently applying my knowledge in a practical way. Below is a highlight of
         <a href="https://react.dev/">
           <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
         </a>
-        <a href="https://vitejs.dev/">
-          <img src="https://img.shields.io/badge/Vite_7-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-        </a>
         <a href="https://tailwindcss.com/">
           <img src="https://img.shields.io/badge/Tailwind_3-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
         </a>
