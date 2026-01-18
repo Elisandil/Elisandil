@@ -70,7 +70,7 @@ Currently transitioning from a **Java** background to the **Go (Golang)** ecosys
 </div>
 
 ---
-### 🌟 Featured Project
+### 🌟 Featured Projects
 
 I am currently applying my knowledge in a practical way. Below is a highlight of my most robusts projects, built to demonstrate modern backend practices.
 
