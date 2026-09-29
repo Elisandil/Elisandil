@@ -2,7 +2,7 @@ name: GitHub-Profile-Summary-Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * 1"
   workflow_dispatch:
 
 jobs:
@@ -13,9 +13,37 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v7
+
+      # The action wipes its output folder on every run, so each theme is
+      # generated separately and collected before the next run.
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          THEME: default
+          AUTO_PUSH: false
+
+      - run: mkdir -p "$RUNNER_TEMP/cards" && cp -r profile-summary-card-output/. "$RUNNER_TEMP/cards/"
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          THEME: tokyonight
+          AUTO_PUSH: false
+
+      - run: cp -r profile-summary-card-output/. "$RUNNER_TEMP/cards/"
+
+      # Cards live on a dedicated branch, replaced on every run, so main's history stays clean.
+      - name: Publish cards to output branch
+        working-directory: ${{ runner.temp }}/cards
+        run: |
+          git init -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Generate profile summary cards"
+          git push --force "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" output

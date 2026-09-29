@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Antonio;Go+%26+Java+Developer;Software+Developer+@AGS;Building+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Antonio;Backend+Developer+@AGS;C%23+%C2%B7+Kafka+%C2%B7+Microservices;Go+enthusiast;On+the+road+to+AI+Engineering" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -16,16 +16,16 @@
 
 ### ⚡ About Me
 
-I'm a **Backend Software Engineer** driven by curiosity and a passion for building efficient systems.
+I'm a **Backend Software Engineer** at **AGS**, where I work on the **BFF (Backend for Frontend) of ConectaWeb**: **C#/.NET** microservices communicating through **Apache Kafka** and backed by **SQL Server**.
 
-Currently transitioning from a **Java** background to the **Go (Golang)** ecosystem, I focus on writing **clean code** and understanding the "why" behind software architecture decisions. I am constantly learning how to build applications that are not just functional, but also maintainable.
+**Go** is still my favourite language for side projects, and step by step I'm moving towards **AI Engineering**: bringing AI models into real backend systems.
 
 **🌱 My Journey & Focus:**
-* **Professional:** Developing enterprise-grade software for mobility and security (Appolo).
-* **Deep diving into Go:** Building REST APIs and CLI tools.
-* **Learning Architecture:** Exploring Hexagonal Architecture and SOLID principles.
-* **DevOps Basics:** Getting hands-on with Docker and CI/CD.
-* **Goal:** To join a team where I can contribute, learn, and grow as an engineer.
+* **Now @ AGS:** Event-driven microservices in C# with Kafka and SQL Server for the ConectaWeb BFF.
+* **Previously @ Almerimatik:** Enterprise software for mobility and security (Appolo project).
+* **AI Engineering:** Learning how to integrate AI models and LLMs into backend services.
+* **Go side projects:** REST APIs, CLI tools and concurrent systems.
+* **Architecture:** Clean Architecture, SOLID principles and CI/CD with Docker.
 
 ---
 
@@ -33,13 +33,13 @@ Currently transitioning from a **Java** background to the **Go (Golang)** ecosys
 
 <div align="center">
 
-| **Backend Core** | **Infrastructure & DB** |
+| **Languages** | **Messaging & Infrastructure** |
 |:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=java,go,python,cs&theme=dark" /> | <img src="https://skillicons.dev/icons?i=docker,postgres,mysql,sqlite,mongodb,redis&theme=dark" /> |
+| <img src="https://skillicons.dev/icons?i=cs,go,java,python&theme=dark" alt="C#, Go, Java, Python" /> | <img src="https://skillicons.dev/icons?i=kafka,docker,githubactions&theme=dark" alt="Kafka, Docker, GitHub Actions" /> |
 
-| **Frameworks** | **Tools** |
+| **Databases** | **Frameworks & Tools** |
 |:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=spring,hibernate,net,react&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,bash,linux,maven&theme=dark" /> |
+| <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis&theme=dark" alt="PostgreSQL, MySQL, SQLite, MongoDB, Redis" /><br /><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge" alt="SQL Server" /> | <img src="https://skillicons.dev/icons?i=net,spring,hibernate,react,git,linux&theme=dark" alt=".NET, Spring, Hibernate, React, Git, Linux" /> |
 
 </div>
 
@@ -49,36 +49,73 @@ Currently transitioning from a **Java** background to the **Go (Golang)** ecosys
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Elisandil/Elisandil/raw/main/profile-summary-card-output/tokyonight/0-profile-details.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Elisandil/Elisandil/raw/main/profile-summary-card-output/default/0-profile-details.svg">
-    <img alt="Profile Details" src="https://github.com/Elisandil/Elisandil/raw/main/profile-summary-card-output/default/0-profile-details.svg" width="800">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Elisandil/Elisandil/raw/output/tokyonight/0-profile-details.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Elisandil/Elisandil/raw/output/default/0-profile-details.svg">
+    <img alt="Profile Details" src="https://github.com/Elisandil/Elisandil/raw/output/default/0-profile-details.svg" width="800">
   </picture>
   
   <br/>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Elisandil/Elisandil/raw/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Elisandil/Elisandil/raw/main/profile-summary-card-output/default/2-most-commit-language.svg">
-    <img alt="Top Languages" src="https://github.com/Elisandil/Elisandil/raw/main/profile-summary-card-output/default/2-most-commit-language.svg" height="170">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Elisandil/Elisandil/raw/output/tokyonight/2-most-commit-language.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Elisandil/Elisandil/raw/output/default/2-most-commit-language.svg">
+    <img alt="Top Languages" src="https://github.com/Elisandil/Elisandil/raw/output/default/2-most-commit-language.svg" height="170">
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Elisandil/Elisandil/raw/main/profile-summary-card-output/tokyonight/3-stats.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Elisandil/Elisandil/raw/main/profile-summary-card-output/default/3-stats.svg">
-    <img alt="Stats" src="https://github.com/Elisandil/Elisandil/raw/main/profile-summary-card-output/default/3-stats.svg" height="170">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Elisandil/Elisandil/raw/output/tokyonight/3-stats.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Elisandil/Elisandil/raw/output/default/3-stats.svg">
+    <img alt="Stats" src="https://github.com/Elisandil/Elisandil/raw/output/default/3-stats.svg" height="170">
   </picture>
 </div>
 
 ---
 ### 🌟 Featured Projects
 
-I am currently applying my knowledge in a practical way. Below is a highlight of my most robusts projects, built to demonstrate modern backend practices.
+Side projects where I put AI, Go and modern backend practices into action.
 
 <table>
   <tr>
     <td width="25%" align="center">
-      <a href="https://github.com/Elisandil/GoSnap">
-        <img src="https://github.com/Elisandil/GoSnap/blob/main/screenshots/Logo.png?raw=true" alt="GoSnap Logo" width="100%" />
+      <h1>🛡️</h1>
+      <strong>DataGuard</strong>
+    </td>
+    <td width="75%">
+      <h3 align="center">DataGuard - ML-Powered Data Quality Monitoring</h3>
+      <p align="center">
+        A <strong>multi-tenant SaaS</strong> that connects to SQL warehouses, profiles tables on a schedule and uses <strong>Machine Learning</strong> to alert data teams when metrics drift from their historical baseline.
+        Includes an <strong>LLM agent</strong> that answers questions about your data using live tool calls.
+      </p>
+      <p align="center">
+        <strong>Key Technical Features:</strong>
+        <br />
+        Layered Anomaly Detection (Rules + Robust Stats + Autoencoder) • LLM Tool Calling • Compute Pushdown (PostgreSQL / Snowflake / BigQuery) • Hexagonal Architecture
+      </p>
+      <p align="center">
+        <strong>🛠 Tech Stack:</strong>
+        <br />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+        <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Private_Repository-Code_available_on_request-555555?style=for-the-badge&logo=github&logoColor=white" alt="Private repository" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <a href="https://github.com/Elisandil/go-snap">
+        <img src="https://github.com/Elisandil/go-snap/blob/main/screenshots/Logo.png?raw=true" alt="GoSnap Logo" width="100%" />
       </a>
     </td>
     <td width="75%">
@@ -115,7 +152,7 @@ I am currently applying my knowledge in a practical way. Below is a highlight of
         </a>
       </p>
       <p align="center">
-        <a href="https://github.com/Elisandil/GoSnap">
+        <a href="https://github.com/Elisandil/go-snap">
           <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
         </a>
       </p>
@@ -125,12 +162,12 @@ I am currently applying my knowledge in a practical way. Below is a highlight of
 
 <table>
   <tr>
-    <td width="35%" align="center">
+    <td width="25%" align="center">
       <a href="https://github.com/Elisandil/webscraper-v2">
         <img src="https://github.com/Elisandil/webscraper-v2/blob/main/assets/Logo.png?raw=true" alt="WebScraper Logo" width="100%" />
       </a>
     </td>
-    <td width="65%">
+    <td width="75%">
       <h3 align="center">WebScraper App - Metadata Scraper</h3>
       <p align="center">
         A modern <strong>Full-Stack Web Scraper</strong> with AI-powered natural language interface for automated metadata, links, and image extraction.
